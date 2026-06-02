@@ -1,0 +1,6 @@
+{
+  "name": "Budget & Dettes",
+  "description": "Une application élégante avec un design fluide style Apple pour gérer vos comptes, budgets et dettes en toute simplicité.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
